@@ -1,0 +1,22 @@
+{
+  "name": "umd-design-pattern",
+  "version": "1.0.0",
+  "description": "umd-design-pattern",
+  "main": "umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenYadavADL/UMD-design-Pattern.git"
+  },
+  "keywords": [
+    "umd-design-pattern"
+  ],
+  "author": "Praveen Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PraveenYadavADL/UMD-design-Pattern/issues"
+  },
+  "homepage": "https://github.com/PraveenYadavADL/UMD-design-Pattern#readme"
+}
